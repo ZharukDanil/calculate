@@ -1,0 +1,27 @@
+{
+  "name": "calculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZharukDanil/calculate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZharukDanil/calculate/issues"
+  },
+  "homepage": "https://github.com/ZharukDanil/calculate#readme",
+  "devDependencies": {
+    "@testomatio/reporter": "^2.3.6",
+    "jest": "^30.2.0"
+  }
+}
